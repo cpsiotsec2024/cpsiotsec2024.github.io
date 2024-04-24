@@ -284,6 +284,7 @@ about these policies, please contact the chairs.
 
 ## Publicity Chair
 * Pablo Picazo-Sanchez, Halmstad University
+* Masoom Rabbani, COSIC, KU Leuven, Belgium
 
 
 ## Past Workshop
