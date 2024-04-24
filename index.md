@@ -230,6 +230,7 @@ about these policies, please contact the chairs.
 * Earlence Fernandes, University of California, San Diego, USA
 
 ## Technical Program Committee
+<!--
 * Alessandro Brighente	University of Padua	
 * Álvaro Cárdenas	UC Santa Cruz	
 * Amir Rahmati	Stony Brook University		
@@ -264,7 +265,7 @@ about these policies, please contact the chairs.
 * Weizhi Meng	Technical University of Denmark	
 * Yongkai Fan	State Key Laboratory of Media Convergence and Communication, China University of Communication
 * Yuqing Zhang	National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences
-
+-->
 
 
 
