@@ -227,7 +227,7 @@ about these policies, please contact the chairs.
 
 ## Program Chairs
 * Magnus Almgren, Chalmers University of Technology, Sweden
-* Earlence Fernandes, University of California, San Diego, USA
+* Kassem M. Fawaz, University of Wisconsin, USA
 
 ## Technical Program Committee
 <!--
