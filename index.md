@@ -213,16 +213,16 @@ about these policies, please contact the chairs.
 
 
 
-* **Paper Submission Site: TBA** <!-- <a href="https://cpsiotsec24.hotcrp.com/" target="_blank">https://cpsiotsec24.hotcrp.com/</a>** -->
+* **Paper Submission Site: <a href="https://cpsiotsec24.hotcrp.com/" target="_blank">https://cpsiotsec24.hotcrp.com/</a>**
 
 
 <!--
 <p> <strong> Please submit your work at <a href="https://easychair.org/conferences/?conf=cpsiotsec2020"> <strong> https://easychair.org/conferences/?conf=cpsiotsec2020 </strong> </a> </strong> </p> -->
 
 ## Important Dates
-- Submission deadline: TBA <!-- <s>June 29, 2024 (23:59 Anywhere on Earth)</s> --> <!-- <s>July 13, AoE</s> July, 18 AoE (firm) -->
-- Notification of acceptance/rejection (tentative): TBA
-- Deadline for submission of camera-ready papers: TBA
+- Submission deadline: <s>June 25, 2024 (23:59 Anywhere on Earth)</s> <!-- <s>July 13, AoE</s> July, 18 AoE (firm) -->
+- Notification of acceptance/rejection (tentative): <s>Aug 12, 2024</s>
+- Deadline for submission of camera-ready papers: <s>Aug 29, 2024</s>
 - Workshop date:  TBA
 
 ## Program Chairs
