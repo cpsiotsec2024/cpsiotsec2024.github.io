@@ -220,7 +220,7 @@ about these policies, please contact the chairs.
 - Submission deadline: June 25, 2024 (23:59 Anywhere on Earth) <!-- <s>July 13, AoE</s> July, 18 AoE (firm) -->
 - Notification of acceptance/rejection (tentative): Aug 12, 2024
 - Deadline for submission of camera-ready papers: Aug 29, 2024
-- Workshop date:  TBA
+- Workshop date:  October 18th, 2024
 
 ## Program Chairs
 * Magnus Almgren, Chalmers University of Technology, Sweden
